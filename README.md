@@ -1,0 +1,2 @@
+# pstake
+pypi
